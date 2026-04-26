@@ -55,6 +55,4 @@ Ensure the Arduino is connected to your computer via USB.
 Execute the script:
 ```bash
 python3 main.py
-```
-# Video Demonstration
-https://youtu.be/iYUFY_aObfE?si=qANDlZyPqdgixqjn 
+``` 

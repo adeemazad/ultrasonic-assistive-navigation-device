@@ -1,4 +1,4 @@
-## Ultrasonic Sensor-Based Assistive Device for Visually Impaired People
+# Ultrasonic Sensor-Based Assistive Device for Visually Impaired People
 
 # Overview
 This project aims to develop an assistive device for visually impaired individuals using an ultrasonic sensor, Arduino, and real-time data processing. 

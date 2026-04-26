@@ -89,7 +89,6 @@ begins. Two windows display raw and filtered distance data live.
 |---|---|
 | main.py | Full Python source code |
 | IIR-Assistive-Navigation-Report.pdf | Technical report (PDF) |
-| IIR-Assistive-Navigation-Report.docx | Technical report (Word) |
 | device-front.jpg | Device, front view |
 | device-back.jpg | Device, back view |
 

@@ -94,6 +94,6 @@ begins. Two windows display raw and filtered distance data live.
 
 ## Author
 
-**Adeem Azad**
-BEng Mechatronics, University of Glasgow
+**Adeem Azad**  
+BEng Mechatronics, University of Glasgow   
 [LinkedIn](https://www.linkedin.com/in/adeem-azad)
